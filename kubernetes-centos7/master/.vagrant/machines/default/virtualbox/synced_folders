@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/HK_I_2020/Dien_toan_dam_may/Do_an_cuoi_ky/learn-kubenetes/kubernetes-centos7/master","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
